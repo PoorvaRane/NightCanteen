@@ -1,0 +1,245 @@
+Date: 9 46 2014 
+ 
+Order number 1,  2014-11-09 17:50:16.506
+EggRoll
+30.00
+GobiManchurian
+50.00
+Maggi
+25.00
+FrenchFries
+35.00
+VegSandwich
+28.00
+PaniPuri
+25.00
+SevPuri
+25.00
+RagdaPatties
+25.00
+PineappleJuice
+25.00
+WatermelonJuice
+25.00
+Total Price is: Rs293.00
+
+Date: 9 46 2014 
+ 
+Order number 1,  2014-11-09 17:51:23.603
+VegFriedRice
+30.00
+EggRoll
+30.00
+Total Price is: Rs60.00
+
+Order number 2,  2014-11-09 17:51:29.045
+VegRoll
+25.00
+EggRoll
+30.00
+VegFriedRice
+30.00
+Total Price is: Rs85.00
+
+Order number 3,  2014-11-09 17:51:32.881
+VegNoodles
+35.00
+Total Price is: Rs35.00
+
+Date: 9 46 2014 
+ 
+Order number 1,  2014-11-09 17:52:26.244
+Pasta
+35.00
+Maggi
+25.00
+VegNoodles
+35.00
+Total Price is: Rs95.00
+
+Order number 2,  2014-11-09 17:52:31.588
+LimeJuice
+10.00
+Coffee
+10.00
+Total Price is: Rs20.00
+
+Order number 3,  2014-11-09 17:52:35.973
+GobiParantha
+24.00
+Total Price is: Rs24.00
+
+Date: 10 46 2014 
+ 
+Order number 1,  2014-11-10 23:06:54.959
+PaniPuri
+25.00
+VegSandwich
+28.00
+Maggi
+25.00
+GobiManchurian
+50.00
+Total Price is: Rs128.00
+
+Order number 2,  2014-11-10 23:21:33.792
+Pasta
+35.00
+Maggi
+25.00
+LimeJuice
+10.00
+Total Price is: Rs70.00
+
+Date: 10 46 2014 
+ 
+Order number 1,  2014-11-10 23:22:04.762
+Pasta
+35.00
+Pasta
+35.00
+VegFriedRice
+30.00
+Total Price is: Rs100.00
+
+Date: 10 46 2014 
+ 
+Order number 1,  2014-11-10 23:26:37.584
+VegCheeseSandwich
+35.00
+VegRoll
+25.00
+Pasta
+35.00
+Maggi
+25.00
+MethiParantha
+24.00
+Total Price is: Rs144.00
+
+Order number 2,  2014-11-10 23:26:41.857
+Maggi
+25.00
+Pasta
+35.00
+Maggi
+25.00
+Pasta
+35.00
+Total Price is: Rs120.00
+
+Date: 11 46 2014 
+ 
+Order number 1,  2014-11-11 17:13:11.39
+Maggi
+25.00
+Total Price is: Rs25.00
+
+Order number 2,  2014-11-11 17:13:15.901
+Pasta
+35.00
+Total Price is: Rs35.00
+
+Date: 11 46 2014 
+ 
+Order number 1,  2014-11-11 18:27:36.921
+VegCheeseSandwich
+35.00
+VegSandwich
+28.00
+Maggi
+25.00
+VegFriedRice
+30.00
+LimeJuice
+10.00
+LimeJuice
+10.00
+LimeJuice
+10.00
+VegFriedRice
+30.00
+VegFriedRice
+30.00
+VegFriedRice
+30.00
+VegFriedRice
+30.00
+VegFriedRice
+30.00
+VegFriedRice
+30.00
+Total Price is: Rs328.00
+
+Date: 11 46 2014 
+ 
+Order number 1,  2014-11-11 18:38:03.166
+VegRoll
+25.00
+Maggi
+25.00
+Total Price is: Rs50.00
+
+Order number 2,  2014-11-11 18:38:06.185
+VegFriedRice
+30.00
+LimeJuice
+10.00
+EggNoodles
+40.00
+Total Price is: Rs80.00
+
+Order number 3,  2014-11-11 18:38:08.771
+AlooParantha
+20.00
+VegFriedRice
+30.00
+Total Price is: Rs50.00
+
+Order number 4,  2014-11-11 18:38:12.878
+MushroomManchurian
+60.00
+PaneerManchurian
+60.00
+AlooTikki
+30.00
+Total Price is: Rs150.00
+
+Date: 7 50 2014 
+ 
+Order number 1,  2014-12-07 17:52:57.735
+FrenchFries
+35.00
+Maggi
+25.00
+GobiManchurian
+50.00
+TomatoSoup
+30.00
+Total Price is: Rs140.00
+
+Order number 2,  2014-12-07 17:53:04.252
+TomatoSoup
+30.00
+DahiPuri
+30.00
+Total Price is: Rs60.00
+
+Order number 3,  2014-12-07 17:53:14.542
+PaneerManchurian
+60.00
+AlooTikki
+30.00
+SweetCornSoup
+30.00
+Total Price is: Rs120.00
+
+Order number 4,  2014-12-07 17:53:32.058
+Coffee
+10.00
+ChikkooMilkshake
+30.00
+PineappleJuice
+25.00
+Total Price is: Rs65.00
+
